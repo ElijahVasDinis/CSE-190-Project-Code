@@ -8,7 +8,7 @@ This repository contains the code and data used for the experiments in the paper
 
 ## Files
 
-- `register_shift_grounded_qa_experiment_clean.ipynb`  
+- `mainExperiment.ipynb`  
   Main notebook used to run the experiments, generate model outputs, and compute evaluation metrics.
 
 - `confiqa_register_eval_cleaned.csv`  
